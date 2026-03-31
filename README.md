@@ -13,3 +13,7 @@ Resources used: Since Hitscan is using a ray-casting algorithm
 [Millington, I. (2019), Game Physics Engine Development](http://www.r-5.org/files/books/computers/algo-list/realtime-3d/Ian_Millington-Game_Physics_Engine_Development-EN.pdf)
 
 
+[Armor](https://developer.valvesoftware.com/wiki/Armor)
+
+[Distance-based damage falloff](https://www.reddit.com/r/GlobalOffensive/comments/2x5mpt/csgo_damage_dropoff_table/)
+
